@@ -1,6 +1,6 @@
 # CSSDP
 
-Canadian Space Science Data Portal 
+Canadian Space Science Data Portal (CSSDP)
 
 Visit the [website](http://www.cssdp.ca) [http://www.cssdp.ca]
 
